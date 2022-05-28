@@ -1,0 +1,50 @@
+.navbar {
+    background-color: black;
+    color: white !important;
+}
+
+a {
+    color: grey !important;
+}
+
+.cau1 {
+    background-image: url(../20880265/images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.55)
+}
+
+.cauSection {
+    max-width: 100% !important;
+    padding: 0 !important
+}
+
+.container-fluid {
+    padding: 0 !important
+}
+
+.thongtin {
+    color: white !important;
+    padding-top: 150px
+}
+
+.imgtext {
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+}
+
+.text-container {
+    position: relative;
+}
+
+.text-vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.modal-header {}
